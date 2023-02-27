@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DAKSDgithub
-- 👀 I’m interested in Graphics,Softwares,website and Hacking
+- 👀 I’m interested in Graphics,Softwares,App,website and Hacking
 - 🌱 I’m currently learning Software Engineer in Open University Of SriLanka
 - 📫 You can Contact me on Email:- Kaumudithasandeepa199"gmail.com
 
