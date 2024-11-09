@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DAKSDgithub
-- 👀 I’m interested in Graphics,Softwares,App,website and Hacking
-- 🌱 I’m currently learning Software Engineer in Open University Of SriLanka
+- 👋 Hi, I’m @Sandeepa_Dev
+- 👀 I’m interested in UI/UX Design, Graphics Design, Software, App, websites, and Hacking
+- 🌱 I’m currently studying Software Engineer at Open University Of SriLanka
 - 📫 You can Contact me on Email:- Kaumudithasandeepa199"gmail.com
 
 <!---
